@@ -119,7 +119,7 @@
     }
 
     // Fetch the KML file to extract information
-    fetch('points_inside_vilhena.kml')
+    fetch('points.kml')
         .then(response => {
             // Get the Last-Modified header from the response
             const lastModified = response.headers.get('Last-Modified');
