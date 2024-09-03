@@ -1,6 +1,351 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Folder><name>points</name>
+<Folder><name>points_inside_vilhena</name>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.449200&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.036400&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:50&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0364,-12.4492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.430300&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.037700&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:50&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0377,-12.4303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.430400&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.018100&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:50&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0181,-12.4304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.523000&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.226600&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:40&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.2266,-12.523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.523000&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.226600&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:30&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.2266,-12.523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.415170&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.033160&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.03316,-12.41517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.416610&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.031980&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.03198,-12.41661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.420600&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.026520&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.02652,-12.4206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.442950&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.027200&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0272,-12.44295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.450420&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.038310&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.03831,-12.45042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.451570&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.043780&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.04378,-12.45157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.452890&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.042490&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.04249,-12.45289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.472510&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.111170&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.11117,-12.47251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.517730&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.230680&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23068,-12.51773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.970230&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.234540&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23454,-12.97023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.976650&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.233250&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23325,-12.97665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.977860&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.239110&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23911,-12.97786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.990770&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.236830&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23683,-12.99077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.998220&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.240530&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.24053,-12.99822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.822780&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.288550&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.28855,-11.82278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.649630&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.430320&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.43032,-11.64963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.821780&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.288730&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.28873,-11.82178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.516570&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.225080&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:24&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; NOAA-21&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.22508,-12.51657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.449200&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.036400&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:20&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0364,-12.4492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.874070&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.357220&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.35722,-11.87407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.872520&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.345660&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.34566,-11.87252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.838070&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.315370&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.31537,-11.83807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.837090&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.309390&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.30939,-11.83709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.836560&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.303890&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.30389,-11.83656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.835500&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.297920&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.29792,-11.8355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.814110&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.289460&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.28946,-11.81411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.793610&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.362320&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.36232,-11.79361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.792050&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.350770&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.35077,-11.79205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.790500&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.339270&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.33927,-11.7905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.788950&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.327780&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.32778,-11.78895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.761400&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.425940&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.42594,-11.7614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.751630&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.433920&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.43392,-11.75163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.682840&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.070430&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.07043,-12.68284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.672940&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.071770&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.07177,-12.67294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.981780&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.248280&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.24828,-12.98178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.980200&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.236480&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23648,-12.9802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.970170&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.238010&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23801,-12.97017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.960130&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.239510&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23951,-12.96013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.501290&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.237290&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.23729,-12.50129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.499750&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.225770&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.22577,-12.49975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.460100&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.079570&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.07957,-12.4601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.454740&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.115250&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.11525,-12.45474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.444690&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.053980&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.05398,-12.44469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.443140&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.042730&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.04273,-12.44314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.434830&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.055310&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.05531,-12.43483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.433300&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.044160&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.04416,-12.4333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.431740&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.032860&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.03286,-12.43174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.412080&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.035770&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.03577,-12.41208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.402240&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.037120&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.03712,-12.40224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.287350&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.625600&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.6256,-12.28735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.588780&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.206370&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.20637,-11.58878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.524160&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.337120&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.33712,-11.52416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.496790&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.434940&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.43494,-11.49679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.220810&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.351680&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.35168,-11.22081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.190310&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.362750&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.36275,-11.19031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.159760&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.286900&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.2869,-11.15976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.158240&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.275840&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.27584,-11.15824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.156710&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.264700&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.2647,-11.15671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.139400&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.358600&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.3586,-11.1394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.127960&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.348400&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.3484,-11.12796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.105640&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.484920&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:11&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; AQUA_M-T&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.48492,-11.10564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.449200&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.036400&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:10&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0364,-12.4492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -12.449200&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.036400&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:00&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.0364,-12.4492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atualizado em: (2024-09-02 21:44) UTC</name>
+	<description>&lt;b&gt;LAT =&lt;/b&gt;  -11.842300&lt;br&gt; &lt;b&gt;LONG =&lt;/b&gt;  -60.312100&lt;br&gt; &lt;b&gt;DATA DA PASSAGEM =&lt;/b&gt; 2024-09-02 18:00&lt;br&gt; &lt;b&gt;SATÉLITE =&lt;/b&gt; GOES-16&lt;br&gt; &lt;b&gt;ESTADO =&lt;/b&gt; RONDÔNIA&lt;br&gt; &lt;b&gt;MUNICÍPIO =&lt;/b&gt; VILHENA&lt;br&gt; &lt;b&gt;DETECÇÃO À =&lt;/b&gt; 3h UTC&lt;br&gt; </description>
+      <Point><coordinates>-60.3121,-11.8423</coordinates></Point>
+  </Placemark>
 </Folder>
 </Document></kml>
